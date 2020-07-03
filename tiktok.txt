@@ -1,0 +1,75 @@
+
+
+#-------------------------------------[INFO]---------------------------------------
+# 
+# tiktok list
+#
+#------------------------------------[FILTERS]-------------------------------------
+
+
+0.0.0.0	api19-core-c-useast1a.tiktokv.com
+0.0.0.0	api16-core-c-useast1a.tiktokv.com	
+0.0.0.0	api16-core-va.tiktokv.com
+0.0.0.0	api19-core-va.tiktokv.com	
+0.0.0.0	api16-core-c-alisg.tiktokv.com
+0.0.0.0	api16-core-c-useast2a.tiktokv.com
+0.0.0.0	api16-core-c-useast2a.tiktokv.com
+0.0.0.0	api2-16-h2-eagle-useast2a.musical.ly.lan
+0.0.0.0	api2-16-h2-eagle.musical.ly.lan
+0.0.0.0	api2-16-h2-useast2a.musical.ly.lan
+0.0.0.0	api2-16-h2.musical.ly
+0.0.0.0	api2-19-h2.musical.ly
+0.0.0.0	api2.musical.ly
+0.0.0.0	applog.musical.ly
+0.0.0.0	dm16.musical.ly
+0.0.0.0	imapi-16.musical.ly
+0.0.0.0	log2-useast2a.musical.ly
+0.0.0.0	log2.musical.ly
+0.0.0.0	mon.musical.ly
+0.0.0.0	pull-cmaf-f5.tiktokcdn.com
+0.0.0.0	pull-f5-ab.tiktokcdn.com
+0.0.0.0	pull-f5.tiktokcdn.com
+0.0.0.0	pull-flv-l1.tiktokcdn.com
+0.0.0.0	pull-flv-l11.tiktokcdn.com
+0.0.0.0	pull-hls-l1.tiktokcdn.com
+0.0.0.0	pull-hls-l11.tiktokcdn.com
+0.0.0.0	pull-rtmp-l1.tiktokcdn.com
+0.0.0.0	pull-rtmp-l11.tiktokcdn.com
+0.0.0.0	webcast-useast2a.musical.ly
+0.0.0.0	webcast.musical.ly
+0.0.0.0	api2-16-h2-eagle-useast2a.musical.ly.lan
+0.0.0.0	api2-16-h2-eagle.musical.ly.lan
+0.0.0.0	api2-16-h2-useast2a.musical.ly.lan
+0.0.0.0	api2-16-h2.musical.ly
+0.0.0.0	api2-19-h2.musical.ly
+0.0.0.0	api2.musical.ly
+0.0.0.0	applog.musical.ly
+0.0.0.0	dm16.musical.ly
+0.0.0.0	imapi-16.musical.ly
+0.0.0.0	log2-useast2a.musical.ly
+0.0.0.0	log2.musical.ly
+0.0.0.0	mon.musical.ly
+0.0.0.0	pull-cmaf-f5.tiktokcdn.com
+0.0.0.0	pull-f5-ab.tiktokcdn.com
+0.0.0.0	pull-f5.tiktokcdn.com
+0.0.0.0	pull-flv-l1.tiktokcdn.com
+0.0.0.0	pull-flv-l11.tiktokcdn.com
+0.0.0.0	pull-hls-l1.tiktokcdn.com
+0.0.0.0	pull-hls-l11.tiktokcdn.com
+0.0.0.0	pull-rtmp-l1.tiktokcdn.com
+0.0.0.0	pull-rtmp-l11.tiktokcdn.com
+0.0.0.0	webcast-useast2a.musical.ly
+0.0.0.0	webcast.musical.ly
+0.0.0.0	tiktok.com
+0.0.0.0	tiktok.org
+0.0.0.0	tiktokv.com
+0.0.0.0	musical.ly
+0.0.0.0	api16-core-c-alisg.tiktokv.com
+0.0.0.0	api16-core-c-useast1a.tiktokv.com
+0.0.0.0	api16-core-c-useast2a.tiktokv.com
+0.0.0.0	api16-core-va.tiktokv.com
+0.0.0.0	api19-core-c-useast1a.tiktokv.com
+0.0.0.0	api19-core-c-useast2a.tiktokv.com
+0.0.0.0	api19-core-va.tiktokv.com
+0.0.0.0	api21-core-c-alisg.tiktokv.com
+0.0.0.0	pull-flv-f1-ab.tiktokcdn.com
